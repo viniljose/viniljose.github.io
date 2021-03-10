@@ -1,4 +1,4 @@
 layout: page
 title: "Welcome to Vinil's Home Page"
-permalink: /index.html
+permalink: /index.md
 
