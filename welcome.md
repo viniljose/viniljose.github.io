@@ -1,3 +1,1 @@
-layout: page
-title: "Welcome Home"
-permalink: /welcome/
+Welcome Home
