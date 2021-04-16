@@ -10,7 +10,7 @@ RSocket is a binary protocol for use on byte stream transports such as TCP, WebS
   <li>need of an application protocol in order to use transport protocols such as WebSockets and Aeron</li>
 </ul>
 
-
+<br>  
 
 This “RSocket” protocol is a formal communication protocol that embraces the “reactive” principles.
 
@@ -34,7 +34,7 @@ Reduce perceived user latency by:
 <p>allocating less memory and reducing garbage collection cost</p>
 </blockquote>
 
-
+<br>  
 
 <h4 id="header-4">Interaction Models</h4>
 <ol>
@@ -44,6 +44,7 @@ Reduce perceived user latency by:
   <li>Channel</li>
 </ol>
 
+<br>  
 
 <h4 id="header-4">Request/Response (single-response)</h4>
 
@@ -51,10 +52,9 @@ These request/response interactions can be considered optimized “streams of on
 
 The consumer “waits” for the response message, so it looks like a typical request/response, but underneath it never synchronously blocks.
 
-<div class="highlight"><code>Future<Payload> response = socketClient.requestResponse(requestPayload);
-</code></div>
-
-    
+<code>Future<Payload> response = socketClient.requestResponse(requestPayload);
+</code>
+<br>  
 
 
 <h4 id="header-4">References</h4>
