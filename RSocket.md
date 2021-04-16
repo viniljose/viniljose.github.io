@@ -54,8 +54,11 @@ The consumer “waits” for the response message, so it looks like a typical re
 
 <code>Future<Payload> response = socketClient.requestResponse(requestPayload);
 </code>
-<br>  
-
+<br>
+  
+  
+<br>
+<br>
 
 <h4 id="header-4">References</h4>
 <p><a href="https://rsocket.io/">https://rsocket.io</a></p>
