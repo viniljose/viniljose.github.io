@@ -45,6 +45,23 @@ Reduce perceived user latency by:
 </ol>
 
 
+<h4 id="header-4">Request/Response (single-response)</h4>
+
+These request/response interactions can be considered optimized “streams of only 1 response”, and are asynchronous messages multiplexed over a single connection.
+
+The consumer “waits” for the response message, so it looks like a typical request/response, but underneath it never synchronously blocks.
+
+<div class="language-plaintext highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight">
+    <code>Future<Payload> response = socketClient.requestResponse(requestPayload);
+</code>
+</pre>
+</div>
+</div>
+
+    
+
 
 <h4 id="header-4">References</h4>
 <p><a href="https://rsocket.io/">https://rsocket.io</a>.</p>
