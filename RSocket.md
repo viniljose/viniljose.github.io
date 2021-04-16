@@ -15,7 +15,7 @@ This “RSocket” protocol is a formal communication protocol that embraces the
 
 RSocket seeks to:
 Reduce perceived latency and increase system efficiency by supporting non-blocking, duplex, async application communication with flow control over multiple transports from any language
-.
+
 Reduce hardware footprint (and thus cost and operational complexity) by:
 increasing CPU and memory efficiency through use of binary encoding
 avoiding redundant work by allowing persistent connections
@@ -26,22 +26,20 @@ reducing computation time by using binary encoding
 allocating less memory and reducing garbage collection cost
 
 
-Interaction Models
 
+<h4 id="header-4">Interaction Models</h4>
 
 Request/Response (single-response)
 
-
 Request/Stream (multi-response, finite)
-
 
 Fire-and-Forget
 
-
 Channel
 
-References
-https://rsocket.io/
+
+<h4 id="header-4">References</h4>
+<p><a href="https://rsocket.io/">https://rsocket.io</a>.</p>
 
 
 
