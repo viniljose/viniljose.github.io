@@ -51,8 +51,8 @@ These request/response interactions can be considered optimized “streams of on
 
 The consumer “waits” for the response message, so it looks like a typical request/response, but underneath it never synchronously blocks.
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Future<Payload> response = socketClient.requestResponse(requestPayload);
-</code></pre></div></div>
+<code>Future<Payload> response = socketClient.requestResponse(requestPayload);
+</code>
 
     
 
