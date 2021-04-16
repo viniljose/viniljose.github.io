@@ -19,11 +19,13 @@ RSocket seeks to:
 <p>Reduce perceived latency and increase system efficiency by supporting non-blocking, duplex, async application communication with flow control over multiple transports from any language</p>
 </blockquote>
 
+
 Reduce hardware footprint (and thus cost and operational complexity) by:
 <blockquote>
 <p>increasing CPU and memory efficiency through use of binary encoding</p>
 <p>avoiding redundant work by allowing persistent connections</p>
 </blockquote>
+
 
 Reduce perceived user latency by:
 <blockquote>
@@ -41,7 +43,6 @@ Reduce perceived user latency by:
   <li>Fire-and-Forget</li>
   <li>Channel</li>
 </ol>
-
 
 
 
