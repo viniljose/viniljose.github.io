@@ -15,11 +15,13 @@ Design Principles of GraphQL:
 </blockquote>
 
 Some Rest Draw Backs:
-overfetching—we’re getting a lot of data back that we don’t need.We ask for only the fields that we want.
-Underfetching-The GraphQL solution to underfetching is to define a nested query and then request the data all in one fetch.
-Managing REST Endpoints-With GraphQL, the typical architecture involves a single endpoint. The single endpoint can act as a gateway and orchestrate several data sources, but the one endpoint still makes organization of data easier.
+<blockquote>
+  overfetching—we’re getting a lot of data back that we don’t need.We ask for only the fields that we want.
+  Underfetching-The GraphQL solution to underfetching is to define a nested query and then request the data all in one fetch.
+  Managing REST Endpoints-With GraphQL, the typical architecture involves a single endpoint. The single endpoint can act as a gateway and orchestrate several data sources, but  the one endpoint still makes organization of data easier.
+</blockquote>
 
-GraphQL Query Language:GraphQL and SQL also have entirely different syntax. Instead of SELECT, GraphQL uses Query to request data. This operation is at the heart of everything we do with GraphQL. Instead of INSERT, UPDATE, or DELETE, GraphQL wraps all of these data changes into one data type: the Mutation. Because GraphQL is built for the internet, it includes a Subscription type that can be used to listen for data changes over socket connections.
+**GraphQL Query Language**:GraphQL and SQL also have entirely different syntax. Instead of SELECT, GraphQL uses Query to request data. This operation is at the heart of everything we do with GraphQL. Instead of INSERT, UPDATE, or DELETE, GraphQL wraps all of these data changes into one data type: the Mutation. Because GraphQL is built for the internet, it includes a Subscription type that can be used to listen for data changes over socket connections.
 
 GraphiQL is the in-browser integrated development environment (IDE) that was created at Facebook to allow you to query and explore a GraphQL API. GraphiQL offers syntax highlighting, code completion, and error warnings, and it lets you run and view query results directly in the browser. 
 Successful queries return a JSON document that contains a “data” key. Unsuccessful queries return a JSON document that contains an “errors” key. The details of what went wrong is passed as JSON data under this key. A JSON response can contain both “data” and “errors.”
