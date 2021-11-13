@@ -1,11 +1,18 @@
+<h1 id="header-1">Introduction to GraphQL</h1>
+
 GraphQL is a query language for your APIs. It’s also a runtime for fulfilling queries with your data. The GraphQL service is transport agnostic but is typically served over HTTP.
 GraphQL is a specification (spec) for client-server communication.
+
 Design Principles of GraphQL:
-Hierarchical:A GraphQL query is hierarchical. Fields are nested within other fields and the query is shaped like the data that it returns.
-Product centric:GraphQL is driven by the data needs of the client and the language and runtime that support the client.
-Strong typing:A GraphQL server is backed by the GraphQL type system. In the schema, each data point has a specific type against which it will be validated.
-Client-specified queries:A GraphQL server provides the capabilities that the clients are allowed to consume.
-Introspective:The GraphQL language is able to query the GraphQL server’s type system.
+<blockquote>
+  <ul>
+   <li>Hierarchical : A GraphQL query is hierarchical. Fields are nested within other fields and the query is shaped like the data that it returns.</li>
+   <li>Product centric : GraphQL is driven by the data needs of the client and the language and runtime that support the client.</li>
+   <li>Strong typing : A GraphQL server is backed by the GraphQL type system. In the schema, each data point has a specific type against which it will be validated.</li>
+   <li>Client-specified queries : A GraphQL server provides the capabilities that the clients are allowed to consume.</li>
+   <li>Introspective : The GraphQL language is able to query the GraphQL server’s type system.</li>
+  </ul>  
+</blockquote>
 
 Some Rest Draw Backs:
 overfetching—we’re getting a lot of data back that we don’t need.We ask for only the fields that we want.
