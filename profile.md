@@ -20,5 +20,8 @@
 | CI & CD	            | drone.io & Jenkins                                                                                  |
 
 ## Interests
+Reactive Systems & Asynchronous Programming 
+
+## PROFESSIONAL EXPERIENCE
 
 
