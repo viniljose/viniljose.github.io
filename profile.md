@@ -9,15 +9,15 @@
 - Strong experience in developing backend applications following API Design Principles.
 
 ## Skills & Expertise
-|                     |                                                                                                    |
+|          Type       |               Skill                                                                                |
 |---------------------|----------------------------------------------------------------------------------------------------|
-|Programming Language	|  Java ,Kotlin                                                                                      |
-|Design & Architecture|  Microservices,Event Driven & Distributed Systems                                                  |
-|Development Tools	  |Spring Boot, Webflux, Reactive Programming, Micronaut, Restful API with JSON, GIT, OAuth 2.0 & Kafka|
-|Data Management 	    |RDBMS [Postgres, MySQL, Oracle], AWS S3 as Object Store, Mongo DB & Redis                           |
-|Infrastructure	      |Linux VM using Chef, Container Orchestration using Docker & k8s                                     |
-|Observability	      |Elastic Stack, Influxdb, Grafana & Micrometer                                                       |  
-|CI & CD	            |drone.io & Jenkins                                                                                  |
+| Programming Language	|  Java ,Kotlin                                                                                      |
+| Design & Architecture|  Microservices,Event Driven & Distributed Systems                                                  |
+| Development Tools	  | Spring Boot, Webflux, Reactive Programming, Micronaut, Restful API with JSON, GIT, OAuth 2.0 & Kafka|
+| Data Management 	    | RDBMS [Postgres, MySQL, Oracle], AWS S3 as Object Store, Mongo DB & Redis                           |
+| Infrastructure	      | Linux VM using Chef, Container Orchestration using Docker & k8s                                     |
+| Observability	      | Elastic Stack, Influxdb, Grafana & Micrometer                                                       |  
+| CI & CD	            | drone.io & Jenkins                                                                                  |
 
 ## Interests
 
