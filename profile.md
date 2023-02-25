@@ -1,5 +1,5 @@
 # LEAD ENGINEER
-> I am passionate about building great products that make people’s lives easier. 
+> **I am passionate about building great products that make people’s lives easier** 
 
 - Technically astute and result oriented professional with 16 years of experience in software development, design and debugging using Open Source Technologies.
 - Currently working as a Lead Engineer in Target Corporation.
