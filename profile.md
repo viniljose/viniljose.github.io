@@ -24,4 +24,15 @@ Reactive Systems & Asynchronous Programming
 
 ## PROFESSIONAL EXPERIENCE
 
+Target Corporation Period:  October 2017 – Present
+Currently I am working in Customer Service space for Target ,handling applications which powers IVR[Interactive Voice Response].As a Lead Engineer, I serve as a technical anchor for the engineering team & responsible for the application architecture in its functional and operational needs. Helps in hiring best engineers in the team and mentoring fresh college graduates. Also acquired higher product knowledge to be highly influential in product vision. Leads the work that enables new technology adoption to the current tech stack. Pairing with team member for complex modules & conducting code reviews for all check-ins.
+Led the technology migration from proprietary to open source technologies for many applications by rewriting from scratch. Some of the recent works involves API design, Microservices in Event Driven manner using Kafka, Enabling observability for applications, Reactive Programming using Spring Webflux & File management using Object store.
 
+lastminute.com Period:  April 2011 – October 2017
+lastminute.com is an online travel and leisure retailer focused mainly in Europe market. My work mainly involved in Payment [customer & vendor] and finance applications. My work highlights includes decomposing Monolithic back-end application to Microservices .Lead successful migration of financial reconciliation application. Maintained Virtual Credit Card provider application, which provides company wide solution for creating virtual credit card for supplier payments. Payment Gateway Interface application which is a common payment processing interface to the travel booking sites lastminute.com, holidayautos.com, zuji.com and few other in house applications.
+
+Sapient Corporation Period: June 2009 – April 2011
+In Sapient, I worked for the client Barnes and Noble College Booksellers. They are having 600 individual college bookstores around the U.S. Being a developer; I was responsible for maintenance of the back end application, which runs on IBM WCS framework. In addition, I developed a POS application, which allows store managers in universities to quickly provide the books for rental. 
+
+Keane Inc Period: April 2006 – June 2009
+In Keane I joined a fresher and grown into a senior developer role in 3 years. Majorly worked for US Healthcare client McKesson for rewriting their hospital application from VC++ to java/j2ee with Spring tech stack. I worked in client location for developing some of the complex modules.
